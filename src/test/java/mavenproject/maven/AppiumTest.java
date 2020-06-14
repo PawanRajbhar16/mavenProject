@@ -18,6 +18,10 @@ public class AppiumTest {
 		System.out.println("Black Barry App");
 	}
 	
-	
+	@Test 
+	public void linux() {
+		System.out.println("linux Os");
+		System.out.println("one of the most famous os");
+	}
 }
  
