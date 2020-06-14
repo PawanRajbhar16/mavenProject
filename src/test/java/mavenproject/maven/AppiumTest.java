@@ -13,6 +13,10 @@ public class AppiumTest {
 		System.out.println("IOSApp");
 	}
 
+	@Test
+	public void blackbarry() {
+		System.out.println("Black Barry App");
+	}
 	
 	
 }
