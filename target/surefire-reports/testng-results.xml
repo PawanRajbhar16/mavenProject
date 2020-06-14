@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-06-04T00:29:38 PDT" name="Suite" finished-at="2020-06-04T00:29:38 PDT" duration-ms="120">
+    <groups>
+    </groups>
+    <test started-at="2020-06-04T00:29:38 PDT" name="Test" finished-at="2020-06-04T00:29:38 PDT" duration-ms="120">
+      <class name="mavenproject.maven.SeleniumTest">
+        <test-method signature="Webtest()[pri:0, instance:mavenproject.maven.SeleniumTest@7a675056]" started-at="2020-06-04T00:29:38 PDT" name="Webtest" finished-at="2020-06-04T00:29:38 PDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Webtest -->
+        <test-method signature="application()[pri:0, instance:mavenproject.maven.SeleniumTest@7a675056]" started-at="2020-06-04T00:29:38 PDT" name="application" finished-at="2020-06-04T00:29:38 PDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- application -->
+      </class> <!-- mavenproject.maven.SeleniumTest -->
+      <class name="mavenproject.maven.RactTest">
+        <test-method signature="rect()[pri:0, instance:mavenproject.maven.RactTest@d21a74c]" started-at="2020-06-04T00:29:38 PDT" name="rect" finished-at="2020-06-04T00:29:38 PDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rect -->
+      </class> <!-- mavenproject.maven.RactTest -->
+      <class name="mavenproject.maven.AppiumTest">
+        <test-method signature="AndriodApp()[pri:0, instance:mavenproject.maven.AppiumTest@15ca7889]" started-at="2020-06-04T00:29:38 PDT" name="AndriodApp" finished-at="2020-06-04T00:29:38 PDT" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AndriodApp -->
+        <test-method signature="ios()[pri:0, instance:mavenproject.maven.AppiumTest@15ca7889]" started-at="2020-06-04T00:29:38 PDT" name="ios" finished-at="2020-06-04T00:29:38 PDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ios -->
+      </class> <!-- mavenproject.maven.AppiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
